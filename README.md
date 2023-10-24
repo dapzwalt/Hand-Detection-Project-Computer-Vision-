@@ -27,4 +27,12 @@ We leverage computer vision to iddentify and track hands in real-time using my w
 
  ## Sample Output
  Here are some examples of the project's output:
- "C:\Users\Admin\Pictures\Screenshots\Screenshot (298).png"
+ ![HD1](https://github.com/dapzwalt/Hand-Detection-Project-Computer-Vision-/assets/125368548/f035492d-fd72-42c5-89c8-fc21c73fdef7)
+ ![HD2](https://github.com/dapzwalt/Hand-Detection-Project-Computer-Vision-/assets/125368548/65f8b345-57e2-4440-98a0-9ea133834570)
+ ![HD3](https://github.com/dapzwalt/Hand-Detection-Project-Computer-Vision-/assets/125368548/cabd83e3-4d29-4a3c-9db6-64098cf2433d)
+ ![HD4](https://github.com/dapzwalt/Hand-Detection-Project-Computer-Vision-/assets/125368548/8774350c-663d-4f32-9b3c-400023eb7ade)
+
+ 
+
+
+
